@@ -1,0 +1,7 @@
+ocker.io/ansible/awx 15.0.0 aaaa1
+docker.io/bitnami/external-dns 0.7.6-debian-10-r63 aaaa2
+docker.io/bitnami/mariadb 10.5.8-debian-10-r21 aaaa3
+docker.io/bitnami/mongodb 4.4.6-debian-10-r8 aaaa4
+docker.io/bitnami/postgresql 13.3.0-debian-10-r81 aaaa5
+docker.io/bitnami/rabbitmq 3.8.9-debian-10-r37 aaaa6
+docker.io/bitnami/redis 6.0.9-debian-10-r66 aaaa7
